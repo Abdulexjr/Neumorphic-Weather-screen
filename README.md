@@ -1,9 +1,6 @@
 ## <a id="Neumorphic-Weather-screen"></a>Neumorphic-Weather-screen
 
-## <a id="screenshots"></a>Screenshots 
-
-### iPhone
-
+## <a id="screenshots"></a>Screenshots iphone 
 
 |    Light     |    Dark     |
 |--------------|-------------|
